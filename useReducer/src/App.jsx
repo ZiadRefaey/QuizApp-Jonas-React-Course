@@ -3,7 +3,7 @@ import DateCounter from "./DateCounter";
 function App() {
   return (
     <>
-      <DateCounter />
+      <header />
     </>
   );
 }
